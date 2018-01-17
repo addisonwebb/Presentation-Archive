@@ -1,0 +1,7 @@
+# Cartfile
+
+# Alamofire
+github "Alamofire/Alamofire"
+
+# Mirrored Alamofire
+#git "https://github.com/addisonwebb/Alamofire.git"
